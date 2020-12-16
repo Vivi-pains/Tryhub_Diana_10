@@ -1,0 +1,13 @@
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.exe
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.deps.json
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.runtimeconfig.json
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.runtimeconfig.dev.json
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.dll
+E:\OP\Lab10\Lab10_1\Lab10_1\bin\Debug\netcoreapp3.1\Lab10_1.pdb
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.csprojAssemblyReference.cache
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.AssemblyInfoInputs.cache
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.AssemblyInfo.cs
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.csproj.CoreCompileInputs.cache
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.dll
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.pdb
+E:\OP\Lab10\Lab10_1\Lab10_1\obj\Debug\netcoreapp3.1\Lab10_1.genruntimeconfig.cache
